@@ -186,7 +186,7 @@ README.md
 Clone repository:
 
 
-git clone https://github.com/YOUR_USERNAME/MedVisionX.git
+git clone https://github.com/sathvikteja/MedVisionX.git
 
 cd MedVisionX
 
