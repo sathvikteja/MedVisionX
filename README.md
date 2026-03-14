@@ -249,6 +249,38 @@ python explainability/gradcam_vit.py
 
 ---
 
+## Visual Results
+
+### Confusion Matrix
+
+<p align="center">
+  <img src="results/vit_ssl_confusion_matrix.png" width="500">
+</p>
+
+---
+
+## GradCAM Explainability
+
+### ResNet Attention
+
+<p align="center">
+  <img src="results/gradcam_resnet.png" width="500">
+</p>
+
+### Vision Transformer Attention
+
+<p align="center">
+  <img src="results/gradcam_vit.png" width="500">
+</p>
+
+---
+
+## Attention Comparison
+
+| ResNet | ViT |
+|--------|-----|
+| <img src="results/gradcam_resnet.png" width="350"> | <img src="results/gradcam_vit.png" width="350"> |
+---
 ## Technologies Used
 
 Python  
