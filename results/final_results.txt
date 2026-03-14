@@ -1,0 +1,21 @@
+MedVisionX – Brain Tumor Classification Results
+
+ResNet18 Baseline:
+Accuracy: 83%
+
+Vision Transformer:
+Accuracy: 96%
+
+SSL Vision Transformer:
+Accuracy: 96%
+
+Key Findings:
+
+• Vision Transformers significantly outperform CNNs for MRI tumor classification.
+• Transformer attention captures spatial tumor structure better than convolutional filters.
+• Self-supervised learning improves feature representation but did not increase final accuracy due to dataset size.
+• GradCAM confirms models focus on tumor regions.
+
+Conclusion:
+
+Transformer-based architectures are better suited for MRI tumor classification tasks than CNNs.
