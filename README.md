@@ -1,4 +1,4 @@
-# MedVisionX: Brain Tumor Classification using Vision Transformers and Self-Supervised Learning
+# MedVisionX: Medical Image Classification using Vision Transformers with Self-Supervised Learning and Explainable AI
 
 ## Project Overview
 
